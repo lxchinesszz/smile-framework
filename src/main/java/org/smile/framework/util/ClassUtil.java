@@ -1,6 +1,5 @@
 package org.smile.framework.util;
 
-import com.sun.deploy.util.StringUtils;
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.net.URLCodec;
 import org.slf4j.Logger;
